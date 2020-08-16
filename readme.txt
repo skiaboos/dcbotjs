@@ -3,7 +3,7 @@
 NodeJS - downloadable from nodejs.org
 Visual Studio Code - Recommended - https://code.visualstudio.com/download
 
--- Licensing
+-- License
 Obviously everyone can create and run a discord bot using this, however, if you want to share the 'template', please give credits and share the original link to my github.
 Thanks
 
